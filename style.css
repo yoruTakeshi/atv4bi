@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+    box-sizing: border-box;
+}
+
+.mini{
+    border: 1px solid cyan;
+    padding: 5px;
+    margin: 5px;
+    height: 5px;
+    width: 5px;
+}
+
+.tiny{
+    border: 5px solid magenta;
+    padding: 10px;
+    margin: 10px;
+    height: 10px;
+    width: 10px;
+}
+
+.medium{
+    border: 10px solid yellow
+    padding: 20px;
+    margin: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.big{
+    border: 20px solid black;
+    padding: 40px;
+    margin: 40px;
+    height: 40px;
+    width: 40px;
+}
